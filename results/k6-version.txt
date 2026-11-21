@@ -1,0 +1,1 @@
+﻿k6.exe v1.0.0 (commit/41b4984b75, go1.24.2, windows/amd64)
